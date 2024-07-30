@@ -1,5 +1,6 @@
 # Deployment-of-Website-on-AWS-S3-using-Terraform.
 
+https://www.linkedin.com/posts/akash-passi_deploy-of-web-on-aws-s3-using-terraform-activity-7223632725570732032-0BQX?utm_source=share&utm_medium=member_desktop
 
 ![1](https://github.com/user-attachments/assets/f2bb4d16-67aa-4ff0-8fad-2f9b5f261f9d)
 ![2](https://github.com/user-attachments/assets/190cec59-fe01-471b-ba94-bea4835adab3)
